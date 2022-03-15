@@ -125,4 +125,12 @@ section {
     max-width: 100%;
 }
 /* module 4 */
-
+.hero {
+    background-image: url("img/hero.jpg"), 400px;
+    background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
+}
+.hero div h1 {
+    
+}
