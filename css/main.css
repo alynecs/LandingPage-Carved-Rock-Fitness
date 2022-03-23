@@ -8,7 +8,7 @@ nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 .container { 
-    margin: auto 0 auto 0;
+    margin: 0 auto;
     max-width: 1170px;
 }
 section {
@@ -131,26 +131,26 @@ section {
     background-position: center;
     text-transform: uppercase;
 }
-.hero div h1 {
+.hero h1 {
     position: relative;
-    left: -30px;
+    left: -3px;
 }
-.hero div h2 {
+.hero h2 {
     color: #faa541;
 }
-.hero div h1, h2 {
+.hero h1, h2 {
     font-size: 63px;
     font-weight: 700;
     line-height: 0.9;
 }
-.hero div p {
+.hero p {
     letter-spacing: 2px;
     font-weight: 700;
     font-size: 21px;
-    margin: 0 10px 0;
+    margin: 10px 0;
 }
 .banner {
-    margin: 55px 15px;
+    margin: 15px 55px;
     width: 100%;
     border-top: 1px solid #a0a0a0;
     border-bottom: 1px solid #a0a0a0;
